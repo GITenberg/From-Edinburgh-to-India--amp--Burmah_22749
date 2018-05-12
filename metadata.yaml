@@ -1,0 +1,30 @@
+_repo: From-Edinburgh-to-India--amp--Burmah_22749
+_version: 0.1.0
+alternative_title: From Edinburgh to India and Burmah
+covers:
+- cover_type: archival
+  image_path: 22749-h/images/iscovera.jpg
+creator:
+  author:
+    agent_name: Burn Murdoch, W. G. (William Gordon)
+    alias: Murdoch, W. G. Burn (William Gordon Burn)
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '25518'
+    url: http://www.gutenberg.org/2009/agents/25518
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2007-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Burma -- Description and travel'
+title: From Edinburgh to India & Burmah
+url: http://www.gutenberg.org/ebooks/22749
